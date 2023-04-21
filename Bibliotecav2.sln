@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bibliotecav2.Data", "Bibliotecav2.Data\Bibliotecav2.Data.csproj", "{9BE37B2E-5F34-4A6C-83CF-40C9C91D98CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bibliotecav2.WinForm", "Bibliotecav2.WinForm\Bibliotecav2.WinForm.csproj", "{9FAE2EF5-FFBF-48C0-B8B2-866998CBF97A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BE37B2E-5F34-4A6C-83CF-40C9C91D98CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE37B2E-5F34-4A6C-83CF-40C9C91D98CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE37B2E-5F34-4A6C-83CF-40C9C91D98CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE37B2E-5F34-4A6C-83CF-40C9C91D98CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FAE2EF5-FFBF-48C0-B8B2-866998CBF97A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FAE2EF5-FFBF-48C0-B8B2-866998CBF97A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FAE2EF5-FFBF-48C0-B8B2-866998CBF97A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FAE2EF5-FFBF-48C0-B8B2-866998CBF97A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37F2EEA1-DC7B-4178-BA5F-852CE88787AB}
+	EndGlobalSection
+EndGlobal
